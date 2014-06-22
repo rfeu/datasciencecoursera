@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-The Data Scientist’s Toolbox repository
+Repository for coursera data science track projects
